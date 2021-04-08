@@ -421,6 +421,21 @@ input {
 .overlay img {
   margin-top: 30%;
 }
+@media screen and (min-width: 768px) {
+  .overlay img  {
+
+  }
+}
+@media screen and (min-width: 992px) {
+  .overlay img  {
+    margin-top: 10%;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .overlay img  {
+
+  }
+}
 
 .gdpr {
   width: 100%;
